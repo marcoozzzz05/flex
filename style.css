@@ -14,4 +14,8 @@
     text-align: center;
     line-height: 100px;
     font-size: 30px;
-  }
+}
+
+.flex :nth-child(3) {
+    flex-grow: 1;
+}
