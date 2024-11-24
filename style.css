@@ -39,6 +39,7 @@
 .grid_container {
     display: grid;
     grid-template-columns: repeat(5,1fr);
+    grid-template-rows: 1fr 2fr;
     background-color: #2196F3;
     padding: 10px;
 }
